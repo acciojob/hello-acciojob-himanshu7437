@@ -1,2 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
 
-/* Your CSS Code here. */
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+main {
+    height: 150px;
+    width: 150px;
+    background-color: #000000;
+}
+
+.hello-accio {
+    color: white;
+    margin-left: 32px;
+    padding: 10px;
+    
+}
